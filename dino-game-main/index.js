@@ -23,7 +23,7 @@ const BACKGROUND_WIDTH = 2400;
 const BACKGROUND_HEIGHT = 600;
 
 const CACTI_CONFIG = [
-  { width: 48 / 1.5, height: 100 / 1.5, image: "images/guitar_1.PNG" },
+  { width: 48 / 1.5, height: 100 / 1.5, image: "images/guitar_1.png" },
   { width: 98 / 1.5, height: 100 / 1.5, image: "images/cactus_2.png" },
   { width: 68 / 1.5, height: 70 / 1.5, image: "images/cactus_3.png" },
 ];
